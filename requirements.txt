@@ -1,0 +1,23 @@
+# ── Brain Tumor Diagnosis using Deep Learning ────────────────────────
+# Python 3.10  |  Windows (CPU)
+# Install: pip install -r requirements.txt
+
+# Web framework
+Flask==3.0.3
+Werkzeug==3.0.3
+Flask-SQLAlchemy==3.1.1
+Flask-Mail==0.10.0
+
+# ── TensorFlow  (FIXED version — loads your model.h5 correctly) ──────
+# tensorflow 2.16.2 supports InputLayer 'batch_shape' + 'optional' args
+tensorflow==2.16.2
+
+# Image / data
+numpy==1.26.4
+pillow==10.4.0
+h5py==3.11.0
+matplotlib==3.8.4
+
+# Utilities
+pymysql==1.1.1
+python-dotenv==1.0.1
