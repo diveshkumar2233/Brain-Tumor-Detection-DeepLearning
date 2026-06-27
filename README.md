@@ -10,7 +10,8 @@ Upload an MRI image through the browser and get an instant prediction with a con
 
 ## Screenshot
 
-![Brain Tumor Diagnosis UI](assets/screenshot.png)
+![Brain Tumor Diagnosis UI](assets/screenshot(1).png)
+
 
 *Example: the app correctly returns a low-stakes "No Tumor Detected" style result when given a non-MRI test image, demonstrating the running pipeline. For real diagnostic testing, use actual MRI scans from `sample MRI Images/` — see the note below.*
 
